@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Jornal da tarde</title>
+    </head>
+    <body>
+        <h1 align="center"> JORNAL DA TARDE </h1>
+        <h2>Últimos dias de verão no Brasil terão sobe e desce na temperatura</h2>
+        <p> 
+            Brasil passa por instabilidade no clima,<br>
+            após o verão, espera-se que a temperatura se estabilize.
+        </p>
+        <hr>
+        <h2 align="center">Navio-petroleiro explode em porto na Tailândia</h2>
+        <p align="center">
+            Após a explosão, foi derramado muito petróleo na região.<br>
+        </p>
+        <hr>
+        <h2 align="right">Papa Francisco reforça pedidos por paz</h2>
+        <p align="right">
+            Em momentos de guerra, mesmo com pedidos do Papa, o caos continua.
+        </p>
+        <hr> 
+    </body>
+</html>
