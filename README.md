@@ -1,4 +1,6 @@
-## Estrutura HTML
+<h1 align="center">H.T.M.L. <i>(HyperText Markup Language)</i></h1>
+<p align="center"><i>Linguagem de Marcação de HiperTexto</i></p>
+
 **Exemplo**
 ```
 <!DOCTYPE html>
