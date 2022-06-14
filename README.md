@@ -17,6 +17,14 @@
 ### Explicação
 `<!DOCTYPE html>` _Definição/Declaração do documento_
 
+**Html** _(-------------)_
+```
+<html>
+    <head></head>
+    <body></body>
+</html>
+```
+
 **Head** _(Config. do site e título da aba do navegador)_
 ```
 <head>
