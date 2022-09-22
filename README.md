@@ -39,3 +39,6 @@
     <img src="img/foto.jpg" alt="imagem exemplo"/>
 </body>
 ```
+<hr>
+
+### Explicando as TAGs
